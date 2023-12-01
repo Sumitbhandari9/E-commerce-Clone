@@ -1,0 +1,22 @@
+.carousel.slide {
+	-webkit-mask-image: linear-gradient(#000,rgba(0,0,0,0.1));
+	mask-image: linear-gradient(#000,rgba(0,0,0,0.1));
+}
+
+.carousel-control-next-icon {
+	margin-block-start: -14rem;
+	padding-top: -10rem;
+	
+}
+
+.carousel-control-prev-icon {
+	margin-block-start: -14rem;
+	
+}
+
+.carousel.slide {
+	padding-top: 6.5rem;
+	/* width: 100vw; */
+	/* height: 100vh; */
+	/* z-index: 1; */
+}

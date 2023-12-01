@@ -1,0 +1,93 @@
+.amz-addcart-first-layer {
+	height: 27rem;
+	border: 1px solid;
+	width: 95%;
+	display: flex;
+    border-radius: 0.5rem;
+    margin: 1rem;
+}
+
+.amz-addcart-img {
+	height: 22rem;
+	width: 20rem;
+	background: #f39507;
+}
+
+.amz-div-for-addcart-img {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    /* height: 25rem; */
+    width: 25rem;
+}
+
+.amz-main-addcart-layer {
+	display: grid;
+	place-items: center;
+}
+
+.amz-addcart-description {
+	display: grid;
+	padding: 4rem;
+	background: burlywood;
+	border-top-right-radius: 0.5rem;
+	border-bottom-right-radius: 0.5rem;
+}
+
+.amz--addcartrating-reviews-both {
+	display: flex;
+	justify-content: space-between;
+}
+
+.addcart-buttons-buy-remove {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.buy-now-add-buttos {
+	height: 2.5rem;
+	width: 14rem;
+	text-decoration: none;
+	border: none;
+	border-radius: 0.2rem;
+	background: #ff8355;
+	font-weight: bold;
+}
+
+.buy-now-add-buttos:hover {
+	background: black;
+	color: white;
+	border: 2px double ivory;
+}
+
+.buy-now-add-buttos:active {
+	background: aliceblue;
+	color: black;
+}
+
+.amz-addcart-Price {
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.addcart-empty-img {
+	padding-top: 6rem;
+	display: grid;
+	place-items: center;
+}
+
+.empty-img {
+	height: 39rem;
+	width: 100%;
+}
+
+.Return-button {
+	text-decoration: none;
+	background: black;
+	color: white;
+	font-size: xxx-large;
+	border-radius: 0.4rem;
+	position: relative;
+	top: -4.5rem;
+}

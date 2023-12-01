@@ -1,0 +1,195 @@
+.small-img-pro {
+	height: 5rem;
+	width: 4rem;
+	border: 1px solid;
+	border-radius: 0.3rem;
+	display: block;
+	margin-block: 1rem;
+}
+
+.small-imgs-of-pro-buy-page-div {
+	height: 30rem;
+	width: 5rem;
+}
+
+.main-img-buy-page {
+	height: 30rem;
+	width: 24rem;
+	filter: invert(100%);
+	-webkit-filter: invert(7%);
+}
+
+.main-div-buy-now {
+	display: flex;
+	width: 100%;
+}
+
+.main-layer-for-buy-page-img {
+	width: 29rem;
+	height: 35rem;
+	border: none;
+	border-radius: 0.2rem;
+	margin-top: 1rem;
+	padding: 2rem;
+	background: transparent;
+	background-color: #eeeded;
+}
+
+.description-buy-page {
+	height: 30rem;
+	width: 29rem;
+	padding: 2rem;
+}
+.card-title.h5 {
+	font-size: 0.9rem;
+	font-weight: bold;
+}
+
+.react-multi-carousel-list {
+	width: 25rem;
+	height: 7rem;
+}
+
+.card-text {
+	font-size: 0.75rem;
+	/* letter-spacing: -0.002rem; */
+	/* word-spacing: -0.09rem; */
+}
+.card-body {
+	padding: -0px;
+}
+
+.card-body {
+	padding: -0px;
+	line-height: 0.9rem;
+}
+
+.card-link {
+	font-size: rem;
+	text-decoration: none;
+	font-size: 0.9rem;
+}
+
+.title-buy-page-link {
+	text-decoration: none;
+	color: green;
+}
+
+.title-buy-page {
+	font-size: x-large;
+}
+
+.taxes-line-buy-now {
+	padding-block: 2rem;
+	color: #193521;
+	font-size: 1.3rem;
+	font-weight: bold;
+}
+
+.payment-buy-description {
+	width: 17rem;
+	height: 36rem;
+	padding: 2rem;
+	border: 1px solid;
+	margin: 0.2rem;
+	border-radius: 0.5rem;
+	background: #e6f4ff;
+}
+
+.buy-pay-delivery-charge {
+	font-size: 0.96rem;
+	padding: 1rem;
+}
+
+.highlight-in-buy-pay-page.active {
+	text-decoration: none;
+	color: #007cff;
+	font-weight: initial;
+}
+
+.highlight-in-buy-pay-page.active:hover {
+	text-decoration: underline;
+	text-decoration-color: red;
+	/* transition: all 2s linear; */
+}
+
+.buy-pay-address {
+	padding: 1rem;
+	font-size: 0.929rem;
+}
+
+.stock-available {
+	font-size: 1.4rem;
+	color: #028002;
+	font-weight: bold;
+	padding-inline-start: 1rem;
+}
+
+.Thanking-to-customers {
+	padding-inline: 0.6rem;
+	padding-block: 0.5rem;
+}
+
+
+.buy-pay-add-buy-both-button {
+	display: grid;
+	grid-row-gap: 0.9rem;
+	padding-block: 0.5rem;
+}
+
+.buy-pay-add-button {
+	border-radius: 1.3rem;
+	border: none;
+	height: 2.1rem;
+	background: #F7CA00;
+	font-size: 0.9rem;
+}
+
+.buy-pay-buy-button {
+	border-radius: 1.3rem;
+	border: none;
+	height: 2.1rem;
+	background: #FA8900;
+	font-size: 0.9rem;
+}
+
+.security-transaction {
+	color: #3d7506;
+}
+
+.fa-solid.fa-lock {
+	color: #605243;
+}
+
+.Add-to-wish-list {
+	display: grid;
+	margin-inline: 1rem;
+	border-radius: revert-layer;
+	background: #F7FAFA;
+	width: 11rem;
+	height: 2.1rem;
+	font-size: 0.9rem;
+	place-items: center;
+}
+
+.Have-sell-buy-pay {
+	display: grid;
+	place-items: center;
+	padding: 1rem;
+}
+
+.have-one-to-sell {
+	font-size: 0.8rem;
+	font-weight: bolder;
+}
+
+.Sell-on-amazon {
+	border: none;
+	border-radius: 0.3rem;
+	width: 9rem;
+	height: 2rem;
+	background: cadetblue;
+	color: black;
+	font-size: 0.89rem;
+	font-weight: bolder;
+}
